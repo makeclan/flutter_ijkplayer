@@ -9,8 +9,8 @@ PODS:
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
-  - flutter_ijkplayer (from `/Volumes/Samsung-T5/code/flutter/plugins/flutter_ijkplayer/ios/flutter_ijkplayer.podspec`)
-  - photo_manager (from `/Users/caijinglong/.pub-cache/hosted/pub.dartlang.org/photo_manager-0.4.8/ios/photo_manager.podspec`)
+  - flutter_ijkplayer (from `/Users/rookie/flutter_ijkplayer/ios/flutter_ijkplayer.podspec`)
+  - photo_manager (from `/Users/rookie/Documents/develop_tools/flutter/.pub-cache/hosted/pub.flutter-io.cn/photo_manager-0.4.8/ios/photo_manager.podspec`)
 
 SPEC REPOS:
   trunk:
@@ -20,9 +20,9 @@ EXTERNAL SOURCES:
   Flutter:
     :path: Flutter
   flutter_ijkplayer:
-    :path: "/Volumes/Samsung-T5/code/flutter/plugins/flutter_ijkplayer/ios/flutter_ijkplayer.podspec"
+    :path: "/Users/rookie/flutter_ijkplayer/ios/flutter_ijkplayer.podspec"
   photo_manager:
-    :path: "/Users/caijinglong/.pub-cache/hosted/pub.dartlang.org/photo_manager-0.4.8/ios/photo_manager.podspec"
+    :path: "/Users/rookie/Documents/develop_tools/flutter/.pub-cache/hosted/pub.flutter-io.cn/photo_manager-0.4.8/ios/photo_manager.podspec"
 
 SPEC CHECKSUMS:
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
@@ -32,4 +32,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 806836eca77383388df20b27737ff664222206cd
 
-COCOAPODS: 1.8.4
+COCOAPODS: 1.9.0
